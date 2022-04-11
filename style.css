@@ -413,6 +413,7 @@ a {
     justify-content: space-between;
     align-items: flex-start;
     position: relative;
+    z-index:2;
 }
 
 #approach .approach-wrapper {
@@ -421,6 +422,7 @@ a {
     justify-content: center;
     align-items: center;
     margin-top: 70px;
+    z-index:100;
 
 }
 
